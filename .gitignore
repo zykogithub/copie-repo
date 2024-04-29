@@ -1,0 +1,13 @@
+tobeignored
+*.obj
+*.exe
+*.vscode
+/TP3/vc140.pdb
+*.ilk
+*.pdb
+TP3/Shape_area
+TP2/magic-numbers
+TP3/Magasin_de_qualité
+*outDebug
+*.o
+*build
